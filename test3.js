@@ -1,3 +1,1 @@
-function test3() {
-  return 'test3'
-}
+const func = () => console.log('hello');
