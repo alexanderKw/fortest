@@ -1,1 +1,2 @@
-console.log('test-4')
+console.log('test-4');
+const func = () => console.log('test 4')
